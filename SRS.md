@@ -19,30 +19,30 @@
 
 ## 2. Overall Description
 
-### 2.1 Product Perspective
+#### 2.1 Product Perspective
 - Describe the product's context, including its relationship to other systems.
 
-### 2.2 Product Functions
+#### 2.2 Product Functions
 - High-level overview of the software’s functionality.
 
-### 2.3 User Characteristics
+#### 2.3 User Characteristics
 - Describe the types of users and their needs.
 
-### 2.4 Constraints
+#### 2.4 Constraints
 - Identify any limitations or constraints (e.g., hardware, regulatory).
 
-### 2.5 Assumptions and Dependencies
+#### 2.5 Assumptions and Dependencies
 - List assumptions and dependencies that impact the development or functionality of the software.
 
 ## 3. Specific Requirements
 
-### 3.1 Functional Requirements
+#### 3.1 Functional Requirements
 - Detailed description of the functional requirements (features and behavior).
 
-### 3.2 Non-Functional Requirements
+#### 3.2 Non-Functional Requirements
 - Performance, security, reliability, and other non-functional aspects.
 
-### 3.3 External Interface Requirements
+#### 3.3 External Interface Requirements
 - Define the system’s interface with external systems (e.g., APIs, hardware).
 
 ## 4. Other Requirements
